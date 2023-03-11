@@ -2,7 +2,10 @@
 #### Email: bogdan@crudu.eu
 #### Tel: +40 (728) 044 377
 
-
+1. [Work Experience](#work-experience)
+2. [Volunteering](#volunteering)
+3. [Education](#education)
+4. [Published Materials](#publishing)
 
 
 
@@ -115,6 +118,7 @@ testimonials
 - Helped increase sales by focusing on what our customers liked best
 about our product
 
+## Volunteering
 ## ELSA Romania | Iasi Romania
 ### Senior Member: July 2013 - present 
 
@@ -137,3 +141,27 @@ educational programs
 BS in Law. Coursework included: 
 - European Community Law, Private Corporate Law, Theory of International Relations, International Trade Law 
 - Commercial Law, Intellectual Property, Private Corporate Law
+
+
+## Publishing
+
+### Technical Blog | Devslife
+
+[Devs Life Blog](http://www.devslife.com/) 
+
+A technical blog I started in 2016 and published on and off until 2019. It focuses mostly on programming concepts illustrated with ruby examples
+
+### Leadership in tech Podcast | Techie Leadership
+
+[Techie Leadership Blog](https://techieleadership.com/)
+[Spotify - techie Leadership](https://open.spotify.com/show/7Gl8Zu1oLgOTByrTdDHhwt)
+
+A leadership in tech podcast focusing on interviews with various tech leaders, company owners and high level consultants
+
+
+
+### Exporting Secrets
+
+[amazon.com - Exporting Secrets](https://www.amazon.com/Exporting-Secrets-Export-Products-Worldwide/dp/1794187278)
+
+My family has been heavily involved in import-export during the early 90's and 2000's. This work contains a multitude of resources and legal frameworks for exporting your goods worldwide
