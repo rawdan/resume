@@ -27,7 +27,7 @@
 
 ## **Work Experience**
 ### Modex | Bucharest Romania
-#### Lead Technical writer: January 1 2020 - Present
+#### Lead Technical writer: January 2020 - Present
 
 - Worked with cutting edge Blockchain technology including Smart Contracts, Cryptocurrency Tokens and BlockChain Database
 - Worked on extracting business requirements from clients and translating them into technological requirements for our developers
@@ -43,7 +43,7 @@ practices
 - Translated client requirements into internal technical requirements
 - Helped transition all company documentation from G-suite to Microsoft Office 365 
 
-#### Sr. Technical writer: December 1 2020 - January 2021
+#### Sr. Technical writer: December 2020 - January 2021
 
 - Designed and wrote on functional User Guides
 - Designed and wrote technical User Guides
