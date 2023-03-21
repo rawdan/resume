@@ -7,7 +7,7 @@
 3. [Education](#education)
 4. [Published Materials](#publishing)
 
-
+## [PDF version](curriculum_vitae.pdf)
 
 ## **Overview**
 
